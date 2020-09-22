@@ -31,7 +31,7 @@ segue URL de configuração do usuário PagSeguro:
 Abra o arquivo `composer.json` e insira a seguinte instrução:
 
     "require": {
-        "michael/laravelpagseguro": "dev-master"
+        "hectordufau/laravel-pagseguro": "dev-master"
     }
 
 **Observação**: Para a versão 5.1 do laravel ou abaixo especifique a versão **0.4.1** ao invés de utilizar **dev-master**
@@ -43,7 +43,7 @@ Após inserir no require o `Laravel PagSeguro`, você deverá executar o comando
 
 Ou execute o comando:
 
-    composer require michael/laravelpagseguro:dev-master
+    composer require hectordufau/laravel-pagseguro:dev-master
 
 ## Configuração do Service Provider
 
