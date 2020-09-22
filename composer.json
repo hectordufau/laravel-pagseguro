@@ -22,16 +22,16 @@
     },
     "authors": [
         {
+            "name": "Hector Dufau",
+            "email": "contato@hectordufau.com.br"
+        },
+        {
             "name": "Michael Douglas Barbosa Araujo",
             "email": "michaeldouglas010790@gmail.com"
         },
         {
             "name": "Isaque de Souza Barbosa",
             "email": "isaquesb@gmail.com"
-        },
-        {
-            "name": "Hector Dufau",
-            "email": "contato@hectordufau.com.br"
         }
     ],
     "scripts": {
